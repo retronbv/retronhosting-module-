@@ -4,7 +4,7 @@
   "git":"https://gitub.com/retronbv/retronhosting-module-",
   "config": {
     "pages": {
-      "/test_module":"modules/retronbv/retronhosting-module-/index.html"
+      "/does-module-work":"modules/retronbv/retronhosting-module-/index.html"
     },
     "404":"modules/retronbv/retronhosting-module-/index.html"
   }
