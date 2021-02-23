@@ -6,6 +6,6 @@
     "pages": {
       "/does-module-work":"modules/retronbv/retronhosting-module-/index.html"
     },
-    "404":"modules/retronbv/retronhosting-module-/index.html"
+    "404":"modules/retronbv/retronhosting-module-/404.html"
   }
 }
